@@ -1,0 +1,62 @@
+{
+  "Roshini Bhar":
+  {
+    "Description": "Spiced chicken or lamb tikka cooked with garlic and a blend of spices",
+    "Price": 8.45
+  },
+  "Korai":
+  {
+    "Description": "Lamb or chicken tikka in a medium curry sauce with a selection of fresh herbs, green peppers, onions and tomatoes served in an individual skillet",
+    "Price": 8.95
+  },
+  "Chicken Satha":
+  {
+    "Description": "Thinly sliced chicken pieces cooked nice and spicy with potatoes, onions topped with fried mushrooms",
+    "Price": 8.95
+  },
+  "Prawn Jhul":
+  {
+    "Description": "Special prawns cooked in a unique blend of spices with fresh garlic, ginger, onions, tomatoes and fresh coriander",
+    "Price": 7.95
+  },
+  "Azuba Chicken":
+  {
+    "Description": "A special medium dish prepared with garlic, ginger and coriander , then cooked onions, tomatoes, green peppers, mushrooms and a special spicy thick sauce",
+    "Price": 7.45
+  },
+  "King Prawn Sally":
+  {
+    "Description": "Bhuna style topped with crispy potatoes",
+    "Price": 10.95
+  },
+  "Karma Sutra":
+  {
+    "Description": "Lovers be aware this is an aphrodisiac. lamb or chicken cooked with white wine, hot and spicy secret spices served with pilau rice",
+    "Price": 9.95
+  },
+  "Gurkhas Revenge":
+  {
+    "Description": "Tender pieces of grilled lamb or chicken in garlic and chilli sauce. Full of flavour, hot and spicy",
+    "Price": 8.95
+  },
+  "Bengal Bad Boy":
+  {
+    "Description": "For all you chili lovers, chicken or lamb specially created using several spices and specially imported naga pickle",
+    "Price": 8.95
+  },
+  "Khondani":
+  {
+    "Description": "A special award winning king prawn medium dish marinated in ginger, coriander, yoghurt and herbs, cooked with sliced onion, spices, green and red peppers",
+    "Price": 11.95
+  },
+  "Machli Jhul":
+  {
+    "Description": "A delicious fish curry in tomato, olives and coriander base with a hint of garlic and white wine",
+    "Price": 9.95
+  },
+  "Goana Mas Curry":
+  {
+    "Description": "Fish cooked in coconut milk with chillies",
+    "Price": 9.95
+  }
+}
