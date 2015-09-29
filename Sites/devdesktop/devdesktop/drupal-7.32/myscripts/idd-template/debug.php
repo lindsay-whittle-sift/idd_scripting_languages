@@ -14,14 +14,16 @@
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
+<script src="index.php"></script>
+
+<p>input: here is some text</p>
 
 <script>
-include('index.php');  
 
-$(".jq-list li").hover(function(){
-                $(this).css('color', 'green');
-            },function(){
-                 $(this).css('color', 'yellow');
-            });
+$(function() {
+  $('p').click(function() {
+    $(this).css('color', '#eeeeee');
+  } );
+} );
 
 </script>

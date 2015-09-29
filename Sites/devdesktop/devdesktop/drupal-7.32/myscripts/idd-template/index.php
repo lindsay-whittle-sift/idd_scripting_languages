@@ -98,8 +98,8 @@ $meal = json_decode($data, TRUE);
             })
 
         /* New function to change the colour of everything on the menu to black once clicked - Issue made by Mark Whelan */
-        $( function() {
-          $('.jq-list li').click( function() {
+        $(function() {
+          $('.jq-list li').click(function() {
             $(this).css('color', '#000000');
           } );
         } );
